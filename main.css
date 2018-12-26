@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+
+.jumbotron {
+    padding-top: 10rem;
+    background-image:
+    linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)), 
+        url(img/agency.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        color: white;
+}
+
+
+.jumbotron-2 {
+    text-align: center;
+    padding-top: 7rem;
+}
+
+
+.card {
+    text-align: center;
+}
+
+
+.card-deck {
+    padding-top: 15rem;
+}
+
+.card-title {
+    font-weight: 800;
+}
+
+.card-text {
+    line-height: 1.7;
+    font-weight: 200;
+}
+
+
+.display-4-callout {
+    font-weight: 600;
+}
+
+.lead-callout {
+    padding-top: 1.5rem;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
+.jumbotron-3 {
+    padding-top: 8rem;
+    margin-top: 10rem;
+    background-image:
+    linear-gradient(
+        rgba(52, 58, 64, 0.9),
+        rgba(52, 58, 64, 0.9)), 
+        url(img/computer.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        color: white;
+}
+
+.display-4-contact {
+    text-align: center;
+    font-weight: 600;
+    font-size: 2.8rem;
+}
+
+
+form {
+    padding-top: 5rem;
+}
+
+
+.contact-button {
+    margin-top: 1.5rem;
+}
