@@ -10,6 +10,7 @@ body {
 }
 
 
+/* First Jumbotron for Hero Section */
 
 .jumbotron {
     padding-top: 10rem;
@@ -24,12 +25,13 @@ body {
         color: white;
 }
 
-
+/* Second Jumbotron that goes right above Cards Section */
 .jumbotron-2 {
     text-align: center;
     padding-top: 7rem;
 }
 
+/* Cards Section */
 
 .card {
     text-align: center;
@@ -59,6 +61,9 @@ body {
     font-weight: 300;
     font-size: 1.1rem;
 }
+
+
+/* Third Jumbotron that is right above Contact Form */
 
 .jumbotron-3 {
     padding-top: 8rem;
