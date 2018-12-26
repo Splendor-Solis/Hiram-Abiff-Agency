@@ -25,6 +25,14 @@ body {
         color: white;
 }
 
+.display-4 {
+    font-weight: 700;
+}
+
+.lead {
+    font-style: italic;
+}
+
 /* Second Jumbotron that goes right above Cards Section */
 .jumbotron-2 {
     text-align: center;
